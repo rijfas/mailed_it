@@ -5,6 +5,10 @@
 </center>
 MailedIt! is a Mass Mailing Application built using Tkinter, allowing you to send personalized emails to recipients using an HTML template and data from an Excel file.
 
+## Screenshot
+
+![](assets/screen_shot.png)
+
 ## How to Use
 
 1. Enter your Gmail credentials:
