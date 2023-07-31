@@ -11,6 +11,7 @@ class MailedItApp(customtkinter.CTk):
     def __init__(self):
         super().__init__()
         self.title("MailedIt!")
+        self.iconbitmap("../assets/logo.ico")
         self._data = None
         self._template_file_path = None
         self.email_label = customtkinter.CTkLabel(self, text="Enter Email:")
